@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Ubuntu&size=35&pause=500&color=EBBC3C&center=true&vCenter=true&width=600&height=80&lines=💛+TheGiftingStream;+📦+FREE+Giveaways;+🐾+Powered+by+Bambi;+🎮+Join+Us+Live!" />
 </h1>
 
-<p align="center"> <img src="SkinnyLLTBanner.jpg" /> </p>
+<p align="center"> <img src="PERFECT.png" /> </p>
 
 <h2 align="center">Become a Part of our Community</h2>
 
